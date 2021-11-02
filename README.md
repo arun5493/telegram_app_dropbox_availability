@@ -1,5 +1,5 @@
 # About:
-A basic CLI app that can be used to <i><b> efficiently moniter </b></i> a telegram group that tracks H1B Dropbox slot availability  
+A basic CLI app that can be used to <i><b> efficiently moniter </b></i> a telegram group that tracks H1B Dropbox/Regular slot availability  
 
 An alert is sounded whenever an image is posted in a telegram group.  
 Want to check the latest "NA" message from the group? Just look at the output of the script
@@ -24,12 +24,12 @@ There are two alerts whenever an image is posted or if the incoming message has 
 Note: Telethon, beepy and wind10toast are python packages, so you can simply do a pip install
 
 # Instructions:
-From the terminal, navigate to the place where the script is stored and run the following commands:
+Clone the repo. From the terminal, navigate to the place where the repo is cloned and run the following commands:
 
 ~~~~
 > pip install telethon beepy
 > pip install win10toast (For windows only)
-> python dropbox*.py
+> python *.py
 ~~~~
 
 Just start the script from the terminal or use a batch/cron job to run the script. When the script is started, it will request authentication
