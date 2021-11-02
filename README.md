@@ -1,7 +1,6 @@
-Script to alert whenever there are Images posted to a Telegram group
-This script can be used to moniter a telegram group to track dropbox slot availability
+A basic CLI app that can be used to moniter a telegram group to track dropbox slot availability  
 
-An alert is sounded whenever an image is posted in the telegram group.   
+An alert is sounded whenever an image is posted in a telegram group.  
 Want to check the latest "NA" message from the group? Just look at the output of the script
 
 There are two alerts whenever an image is posted or if the incoming message has the keyword "available":
