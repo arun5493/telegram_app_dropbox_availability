@@ -1,5 +1,5 @@
 # About:
-A basic CLI app that can be used to moniter a telegram group to track dropbox slot availability  
+A basic CLI app that can be used to <i><b> efficiently moniter </b></i> a telegram group that tracks H1B Dropbox slot availability  
 
 An alert is sounded whenever an image is posted in a telegram group.  
 Want to check the latest "NA" message from the group? Just look at the output of the script
