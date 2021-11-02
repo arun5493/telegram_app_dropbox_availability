@@ -11,7 +11,7 @@ There are two alerts whenever an image is posted or if the incoming message has 
 # Prerequisites:
 
 1. Telegram account
-2. Be a member of the group - H1B/H4 Visa Dropbox slots( No Questions only slot availability messages)
+2. Be a member of the group based on your requirement- H1B/H4 Visa Dropbox slots( No Questions only slot availability messages) OR H1B/H4 Regular visa slots( No Questions only slot availability messages)
 
 # Requirements:  
 
