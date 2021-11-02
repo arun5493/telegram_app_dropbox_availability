@@ -4,7 +4,7 @@ This script can be used to moniter a telegram group to track dropbox slot availa
 An alert is sounded whenever an image is posted in the telegram group.   
 Want to check the latest "NA" message from the group? Just look at the output of the script
 
-There are two alerts whenever an:
+There are two alerts whenever an image is posted or if the incoming message has the keyword "available":
 1. A beep sound using beepify
 2. Windows 10 toast notification
 
